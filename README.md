@@ -1,6 +1,6 @@
 CHAIN ID: PULSAR-2\
 CODE ID: 5301\
-CONTRACT ADDRESS: secret1mcjtrmynz0xk4znnr9j6hrxxrrt8ykcg6czau6\
+CONTRACT ADDRESS: secret1mcjtrmynz0xk4znnr9j6hrxxrrt8ykcg6czau6
 
 # SNIP-721 Reference Implementation
 
